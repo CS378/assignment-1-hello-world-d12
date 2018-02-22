@@ -1,4 +1,4 @@
-# Assignment 1
+# Assignment 1 - Hello World!
 
 In this assignment, you must write a hello world application in JavaScript.
 
